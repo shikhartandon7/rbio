@@ -67,7 +67,7 @@
 
 }
 .logo-image {
-  padding-bottom: 7rem;
+  padding-bottom: 1rem;
 
 }
 .paragraph-text{
@@ -6785,7 +6785,6 @@ button.bg-dark:hover,
 button.bg-dark:focus {
   background-color: #1d2124 !important;
 }
-
 .bg-white {
   background-color: #fff !important;
 }
@@ -10650,11 +10649,15 @@ p {
   padding-top: 7.5rem;
   padding-bottom: 6rem;
   text-align: center;
-  background-image: url("../assets/img/jagoda-kondratiuk-sDeGlMAwcH4-unsplash.jpg");
+  background-image: url("../assets/img/");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
   background-size: cover;
+}
+#services{
+  background-image: url("../assets/img/olena-sergienko-4nCWiYpemEs-unsplash.jpg");
+
 }
 .page-section {
   padding: 6rem 0;
@@ -10852,7 +10855,9 @@ header.masthead .masthead-heading {
 /*     line-spacing:30px; */
   }
 }
-
+.tell-me{
+  padding-top:5rem;
+}
 #portfolio .portfolio-item {
   max-width: 25rem;
   margin-left: auto;
