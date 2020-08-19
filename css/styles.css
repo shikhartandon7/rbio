@@ -70,7 +70,9 @@
 }
 
 /* My classes */
-
+.tell-me-padding{
+  padding-top:1rem;
+}
 .diabetes{
   width:150px;
   height:121px;
@@ -87,7 +89,9 @@
 .paragraph-text{
   font-size: 1.5rem;
   font-family: Montserrat,sans-serif;
-
+}
+.job-detail{
+  font-family: Montserrat,sans-serif;
 }
 .title-text{
   font-size: 2rem;
