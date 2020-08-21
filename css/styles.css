@@ -161,6 +161,10 @@
 }
 .job-detail{
   font-family: Montserrat,sans-serif;
+  padding-bottom: 1.7rem;
+}
+.job-detail-2{
+  font-family: Montserrat,sans-serif;
 }
 .title-text{
   font-size: 2rem;
