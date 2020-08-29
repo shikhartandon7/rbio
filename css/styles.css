@@ -11375,5 +11375,14 @@ header.masthead2 .masthead2-heading {
   }
 }
 .btn-primary{
+  color:white !important;
   background-color: #0072b1 !important;
+}
+.linkedin-class{
+  color:white !important;
+  background-color: #0072b1 !important;
+}
+.about-us-heading{
+  font-family: 'Libre Baskerville', serif;
+  font-size: 3rem;
 }
