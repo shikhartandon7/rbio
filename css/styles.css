@@ -10875,7 +10875,7 @@ header.masthead {
   padding-bottom: 5rem;
   text-align: center;
   color: #fff;
-  background-image: url("../assets/img/nasa-Q1p7bh3SHj8-unsplash.jpg");
+  background-image: url("../assets/img/microbiology-163521_1280.jpg");
   background-repeat: no-repeat;
   background-attachment: scroll;
   background-position: center center;
@@ -11231,7 +11231,6 @@ header.masthead .masthead-heading {
   width: 14rem;
   height: 14rem;
   border: 0.5rem solid rgba(0, 0, 0, 0.1);
-  filter: grayscale(100%);
 }
 
 .team-member h4 {
